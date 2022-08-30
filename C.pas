@@ -1,7 +1,7 @@
 unit FrmUtils;
 
 interface
-C............VM1
+C............VM2
 uses
   Windows,Classes,CommonUtils,System.SysUtils,Graphics,Variants, forms,
   Controls,Dialogs,ExtCtrls,StdCtrls,StrUtils,System.UITypes,IniFiles;
