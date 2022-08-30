@@ -1,7 +1,7 @@
 unit FrmUtils;
 
 interface
-
+E11111111111111 VM
 uses
   Windows,Classes,CommonUtils,System.SysUtils,Graphics,Variants, forms,
   Controls,Dialogs,ExtCtrls,StdCtrls,StrUtils,System.UITypes,IniFiles;
