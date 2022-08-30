@@ -5,7 +5,7 @@ interface
 uses
   Windows,Classes,CommonUtils,System.SysUtils,Graphics,Variants, forms,
   Controls,Dialogs,ExtCtrls,StdCtrls,StrUtils,System.UITypes,IniFiles;
-
+---------------------------VM d11111111111111111111111111111111111111111
 const
   ob='[';
   cb=']';
