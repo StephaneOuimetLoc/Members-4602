@@ -1,7 +1,7 @@
 unit FrmUtils;
 
 interface
-
+F1111111111111111111 VM
 uses
   Windows,Classes,CommonUtils,System.SysUtils,Graphics,Variants, forms,
   Controls,Dialogs,ExtCtrls,StdCtrls,StrUtils,System.UITypes,IniFiles;
@@ -17,6 +17,7 @@ const
   cMaxDigit=7;
 
 resourcestring
+NEW LINE VM
   rsFYI='For your information...';
   rsErrConvertColor='Error converting Color';
   rsWantSave='Would you like to save changes';
